@@ -1,5 +1,5 @@
 # UnsupGrassClover
-Official implementation of "Utilizing unsupervised learning to improve sward content prediction and herbage mass estimation" [paper](https://arxiv.org/pdf/2204.09343.pdf). Published in the European Grassland Federation General Meeting.
+Official implementation of "Utilizing unsupervised learning to improve sward content prediction and herbage mass estimation" [paper](https://arxiv.org/pdf/2204.09343.pdf). Published in the 29th European Grassland Federation General Meeting (2022) pp 791-793 [proceedings](https://www.europeangrassland.org/fileadmin/documents/Infos/Printed_Matter/Proceedings/EGF2022.pdf#page=822).
 
 # Running the code
 train.sh contrains the commands to train the unsupervised algorithm and to use the learned weights to initialize the regression network
